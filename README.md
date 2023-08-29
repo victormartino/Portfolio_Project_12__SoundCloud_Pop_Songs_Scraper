@@ -15,10 +15,8 @@ All you need to do is:
 1. Clone this repository to your local machine using:
     ```bash
     git clone https://github.com/victormartino/soundcloud-pop-scraper.git
-2. Install the `lxml` library using:
-    ```bash
-   pip install lxml
-3. Run the script:
+
+2. Run the script:
     ```bash
    python main.py
 
